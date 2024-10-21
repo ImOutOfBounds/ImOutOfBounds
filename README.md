@@ -5,6 +5,13 @@ Sou o Leandro Custódio, mas pode me chamar de Leo se quiser! 😄
 
 Aqui estão minhas estatísticas do GitHub 💻
 
+<div>
+  <a href="https://github.com/LPHBackspace">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ImOutOfBounds&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImOutOfBounds&layout=compact&langs_count=7&theme=dark"/>
+  <div style="display: inline_block">
+</div> 
+
 ##
 <div>
   <img align="center" alt="leo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
