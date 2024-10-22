@@ -25,6 +25,6 @@
 - 📨 Você pode entrar em contato comigo pelo e-mail: leandro.custodio@sou.inteli.edu.br
 - 👨‍💻 Link para <a href="https://lphbackspace.github.io/site_curriculo/public/index.html">curículo virtual</a>
   
-    ![snake animation](https://github.com/ImOutOfBounds/ImOutOfBounds/blob/output/github-contribution-grid-snake.svg)
+    ![snake gif](https://github.com/ImOutOfBounds/ImOutOfBounds/blob/output/github-snake-dark.svg)
   
   ##
