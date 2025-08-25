@@ -33,7 +33,7 @@
 - 📘 Estudante de Java no Instituto PROA | 2021
 - 🏡 Técnico em Edificações pela Etec Itaquera II | 2018-2020 - Ensino Técnico Integrado ao Médio
 - 📨 Você pode entrar em contato comigo pelo e-mail: leandro.custodio@sou.inteli.edu.br
-- 👨‍💻 Link para <a href="https://lphbackspace.github.io/site_curriculo/public/index.html">curículo virtual</a>
+- 👨‍💻 Link para <a href="https://imoutofbounds.github.io/Curriculo/">curículo virtual</a>
   
     ![snake gif](https://github.com/ImOutOfBounds/ImOutOfBounds/blob/output/github-snake-dark.svg)
   
